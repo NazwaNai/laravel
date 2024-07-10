@@ -1,6 +1,5 @@
 <?php
 
-use App\Http\Middleware\Token;
 use App\Http\Controllers\testingController;
 use Illuminate\Support\Facades\Route;
 
